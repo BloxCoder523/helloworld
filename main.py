@@ -3,7 +3,7 @@ Pursuit Helloworld
 
 This exercise is copied from https://github.com/SmallLion/Python-Projects/blob/main/word_game
 """
-import random
+import main
 
 
 lives = 1
